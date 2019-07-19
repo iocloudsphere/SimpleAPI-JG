@@ -1,4 +1,4 @@
 Josias Garcia
 Simple API Test
-http://<URL>/api/values
+https://simpleapi-jg.azurewebsites.net/api/values
 Should get: Josias Garcia
